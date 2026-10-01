@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hjabbar.github.io/keyprox.github.io/sitemap.xml
